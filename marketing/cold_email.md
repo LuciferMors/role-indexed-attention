@@ -35,7 +35,7 @@ grateful — and I'm also actively looking for a research engineering
 position where I could keep building this out.
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 [email] | [github profile]
 ```
 
@@ -46,7 +46,7 @@ Subject: Independent compositional-generalization research — interested in joi
 
 Hi [first name],
 
-Brief introduction: I'm Rishi Vhare, an independent ML researcher.
+Brief introduction: I'm Rishi Shivhare, an independent ML researcher.
 I just released a paper introducing Role-Indexed Attention, a typed
 factorization of transformer attention that produces clean
 compositional-generalization wins on multiple benchmarks (strict-OOD
@@ -66,7 +66,7 @@ Happy to send code-review materials, do a coding screen, or whatever
 your standard process is.
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 [email] | [github] | [linkedin]
 ```
 

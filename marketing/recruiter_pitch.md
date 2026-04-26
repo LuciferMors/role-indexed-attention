@@ -1,6 +1,6 @@
 # One-page pitch — for recruiters / hiring managers
 
-## Rishi Vhare — independent ML researcher
+## Rishi Shivhare — independent ML researcher
 
 **Most recent work:** Role-Indexed Attention — a typed factorization of
 transformer attention that improves compositional generalization with
@@ -57,7 +57,7 @@ keep developing this direction:
   matching, ablations, honest variance reporting).
 * Comfortable producing publication-quality writing under time
   pressure.
-* Email: lucifermorsbio@gmail.com
+* Email: rishivhare07@gmail.com
 * GitHub: [link]
 * arXiv: [link]
 * Zenodo: [link]

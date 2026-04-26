@@ -39,7 +39,7 @@ position where I can scale this work — happy to share more on that
 separately.
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 [email] | [github]
 
 ---
@@ -70,7 +70,7 @@ Would value your read. I'm exploring research-engineer positions and would
 welcome a conversation about whether DeepMind has a relevant team.
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 
 ---
 
@@ -99,7 +99,7 @@ generalization / mechanistic interpretability? Happy to send a more detailed
 research proposal if relevant.
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 
 ---
 
@@ -126,7 +126,7 @@ Two questions:
    small-scale evidence; I lack the GPU resources for >100M-param validation.
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 
 ---
 
@@ -184,7 +184,7 @@ Would welcome your read. I'm also exploring research positions and would
 appreciate any thoughts on where the work might fit.
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 
 ---
 
@@ -208,7 +208,7 @@ on framing", "is your group hiring research engineers", etc. Pick exactly
 one.]
 
 Best,
-Rishi Vhare
+Rishi Shivhare
 [email]
 
 ---

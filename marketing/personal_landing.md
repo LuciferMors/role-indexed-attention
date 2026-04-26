@@ -1,10 +1,10 @@
 # Personal landing page / GitHub profile copy
 
-For your personal website (rishivhare.com or GitHub README profile).
+For your personal website (rishishivhare.com or GitHub README profile).
 
 ## Hero block
 
-> **Rishi Vhare** — independent ML researcher.
+> **Rishi Shivhare** — independent ML researcher.
 >
 > Most recent paper: **Role-Indexed Attention** — a typed factorization
 > of transformer attention that improves compositional generalization.
@@ -32,7 +32,7 @@ position at a frontier lab where I can scale this work.
 
 ## Contact
 
-- Email: lucifermorsbio@gmail.com
+- Email: rishivhare07@gmail.com
 - GitHub: [link]
 - LinkedIn: [link]
 

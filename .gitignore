@@ -30,3 +30,4 @@ kaggle/__pycache__/
 # kaggle output mirrors (large)
 results/gpu/avacchedaka-attention-battery-t4x2.log
 results/metrics.jsonl
+role-indexed-attention-v*.zip

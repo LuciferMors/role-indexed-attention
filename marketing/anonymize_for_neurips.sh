@@ -18,10 +18,10 @@ python3 - <<'PY'
 src = open('main_neurips.tex').read()
 # Strip any potential author identifiers.
 import re
-src = re.sub(r'lucifermorsbio@gmail\.com', '[anonymized]', src)
-src = re.sub(r'rishivhare', '[anonymized]', src, flags=re.IGNORECASE)
-src = re.sub(r'Rishi Vhare', 'Anonymous Author', src)
-src = src.replace('github.com/rishivhare', '[anonymized]')
+src = re.sub(r'rishivhare07@gmail\.com', '[anonymized]', src)
+src = re.sub(r'(?:rishivhare|rishishivhare|LuciferMors)', '[anonymized]', src, flags=re.IGNORECASE)
+src = re.sub(r'Rishi Shivhare', 'Anonymous Author', src)
+src = src.replace('github.com/LuciferMors', '[anonymized]')
 open('main_neurips_anon.tex', 'w').write(src)
 PY
 

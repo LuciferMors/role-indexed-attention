@@ -19,7 +19,7 @@ Print this. Tick boxes as you go.
 - [ ] Sign up at https://zenodo.org/signup
 - [ ] New upload: type=Preprint
 - [ ] Upload: main_zenodo.pdf, main_zenodo.tex, refs.bib, code.zip
-- [ ] Author: Rishi Vhare, ORCID (create at https://orcid.org if needed)
+- [ ] Author: Rishi Shivhare, ORCID (create at https://orcid.org if needed)
 - [ ] License: MIT (code), CC-BY-4.0 (paper)
 - [ ] Keywords: attention, transformers, compositional generalization, frame semantics
 - [ ] **Publish** — record DOI: ____________________

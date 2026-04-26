@@ -3,12 +3,12 @@
 > Typed edges for compositional binding in transformers.
 
 Official repository for the paper *"Role-Indexed Attention: Typed Edges for
-Compositional Binding in Transformers"* (Vhare, 2026).
+Compositional Binding in Transformers"* (Shivhare, 2026).
 
 [Paper (PDF)](paper/main_zenodo.pdf) ·
 [arXiv](https://arxiv.org/abs/PLACEHOLDER) ·
 [Zenodo DOI](https://doi.org/PLACEHOLDER) ·
-[Tweet thread](https://x.com/rishivhare/status/PLACEHOLDER)
+[Tweet thread](https://x.com/rishishivhare/status/PLACEHOLDER)
 
 ---
 
@@ -46,7 +46,7 @@ See §6 of the paper.
 ## Reproduce
 
 ```bash
-git clone https://github.com/rishivhare/role-indexed-attention.git
+git clone https://github.com/LuciferMors/role-indexed-attention.git
 cd role-indexed-attention
 pip install -r requirements.txt   # torch, datasets
 
@@ -88,9 +88,9 @@ marketing/                outreach materials (tweet thread, cold-email templates
 ## Citation
 
 ```bibtex
-@article{vhare2026roleindexed,
+@article{shivhare2026roleindexed,
   title   = {Role-Indexed Attention: Typed Edges for Compositional Binding in Transformers},
-  author  = {Vhare, Rishi},
+  author  = {Shivhare, Rishi},
   journal = {arXiv preprint arXiv:PLACEHOLDER},
   year    = {2026}
 }
@@ -98,7 +98,7 @@ marketing/                outreach materials (tweet thread, cold-email templates
 
 ## Contact
 
-Rishi Vhare — `lucifermorsbio@gmail.com`
+Rishi Shivhare — `rishivhare07@gmail.com`
 
 If you work on attention, compositional generalization, or interpretability
 and want to discuss collaboration or scaling this work, please reach out.

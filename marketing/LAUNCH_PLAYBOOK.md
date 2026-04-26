@@ -14,7 +14,7 @@ Total span: 14 days. Execute in order. Don't skip steps.
 - [ ] All tests pass: `make test` from project root
 - [ ] Battery results all in `results/` (don't re-run before launch — freeze them)
 - [ ] Twitter/X profile filled out: bio mentions ML research; one pinned tweet about the paper draft you can reference; profile pic
-- [ ] Personal website deployed at a stable URL (rishivhare.com or github.io page)
+- [ ] Personal website deployed at a stable URL (rishishivhare.com or github.io page)
 - [ ] Google Scholar profile created
 - [ ] Email signature includes paper link (after launch)
 
@@ -54,7 +54,7 @@ This is **the** first thing you do. Zenodo gives you a permanent DOI, citable fo
 4. Fill metadata:
    - **Type:** Publication → Preprint
    - **Title:** Role-Indexed Attention: Typed Edges for Compositional Binding in Transformers
-   - **Authors:** Rishi Vhare (Independent researcher), ORCID if you have one
+   - **Authors:** Rishi Shivhare (Independent researcher), ORCID if you have one
    - **Description:** paste your abstract verbatim
    - **License:** MIT for code, CC-BY-4.0 for paper
    - **Keywords:** `attention`, `transformers`, `compositional generalization`, `frame semantics`, `binding`, `interpretability`
@@ -87,7 +87,7 @@ Once Zenodo is up, file the arXiv paper.
 4. Upload: prepare a single `.tar.gz` with `main.tex`, `refs.bib`, and figure files
 5. **Title:** same as Zenodo
 6. **Abstract:** paste from paper (under 1920 chars; trim if needed)
-7. **Comments field:** "Code and additional results: github.com/rishivhare/role-indexed-attention. Zenodo: doi.org/10.5281/zenodo.XXXXXXX"
+7. **Comments field:** "Code and additional results: github.com/LuciferMors/role-indexed-attention. Zenodo: doi.org/10.5281/zenodo.XXXXXXX"
 8. **License:** arXiv non-exclusive license (default)
 
 Submission queues for moderation, takes 1-2 business days. Expect Mon/Tue announce.
@@ -103,7 +103,7 @@ cd /Users/rishi/Desktop/y/avacchedaka
 # Final touchup: ensure paper PDF is in repo
 git add paper/main_zenodo.pdf paper/main_neurips.pdf README.md LICENSE
 git commit -m "Public release"
-git remote add origin https://github.com/rishivhare/role-indexed-attention.git
+git remote add origin https://github.com/LuciferMors/role-indexed-attention.git
 git push -u origin main
 ```
 
@@ -230,7 +230,7 @@ NeurIPS 2026 deadlines (typical pattern):
 ### Critical: anonymization
 
 Before submitting:
-- Replace all `github.com/rishivhare/...` URLs with `[anonymized]` or `https://anonymous.4open.science/...` (free anonymizing service)
+- Replace all `github.com/LuciferMors/...` URLs with `[anonymized]` or `https://anonymous.4open.science/...` (free anonymizing service)
 - Remove all author/affiliation info from PDF metadata: `pdftk main_neurips.pdf dump_data | grep Author` should show nothing
 - Don't cite your own past work in a way that gives away identity
 
