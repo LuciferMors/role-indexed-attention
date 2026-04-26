@@ -1,0 +1,1 @@
+{"task": "scan", "split": "simple", "attention": "ava", "seed": 0, "n_params": 178496, "d_model": 64, "n_layers": 2, "n_aspects": 4, "n_relations": 4, "n_train": 16728, "n_epochs": 1, "lr": 0.003, "batch_size": 64, "iid_acc": 0.8186323092170465, "ood_acc": 0.032281205164992825, "elapsed_s": 109.10689187049866}

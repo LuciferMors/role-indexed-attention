@@ -1,0 +1,14 @@
+{
+  "id": "rishivhare/avacchedaka-attention-battery-t4x2",
+  "title": "Avacchedaka Attention Battery (T4x2)",
+  "code_file": "run_all.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": "true",
+  "enable_gpu": "true",
+  "enable_tpu": "false",
+  "enable_internet": "true",
+  "dataset_sources": [],
+  "competition_sources": [],
+  "kernel_sources": []
+}

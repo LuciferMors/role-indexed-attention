@@ -1,0 +1,15 @@
+{"iid": 0.356, "ood": 0.343, "params": 605568, "elapsed_s": 52.945363998413086, "experiment": "strict_ood", "tag": "mha_d128", "seed": 0, "n_train": 150000}
+{"iid": 0.335, "ood": 0.358, "params": 605568, "elapsed_s": 130.56935715675354, "experiment": "strict_ood", "tag": "mha_d128", "seed": 1, "n_train": 150000}
+{"iid": 0.326, "ood": 0.326, "params": 605568, "elapsed_s": 136.0836260318756, "experiment": "strict_ood", "tag": "mha_d128", "seed": 2, "n_train": 150000}
+{"iid": 0.395, "ood": 0.394, "params": 605568, "elapsed_s": 658.1262798309326, "experiment": "strict_ood", "tag": "mha_d128", "seed": 3, "n_train": 150000}
+{"iid": 0.392, "ood": 0.369, "params": 605568, "elapsed_s": 576.141343832016, "experiment": "strict_ood", "tag": "mha_d128", "seed": 4, "n_train": 150000}
+{"iid": 0.724, "ood": 0.74, "params": 1136784, "elapsed_s": 69.70155382156372, "experiment": "strict_ood", "tag": "mha_d176_match", "seed": 0, "n_train": 150000}
+{"iid": 0.45, "ood": 0.467, "params": 1136784, "elapsed_s": 69.61644792556763, "experiment": "strict_ood", "tag": "mha_d176_match", "seed": 1, "n_train": 150000}
+{"iid": 0.387, "ood": 0.405, "params": 1136784, "elapsed_s": 180.1640830039978, "experiment": "strict_ood", "tag": "mha_d176_match", "seed": 2, "n_train": 150000}
+{"iid": 0.573, "ood": 0.603, "params": 1136784, "elapsed_s": 68.27803206443787, "experiment": "strict_ood", "tag": "mha_d176_match", "seed": 3, "n_train": 150000}
+{"iid": 0.516, "ood": 0.532, "params": 1136784, "elapsed_s": 68.37269186973572, "experiment": "strict_ood", "tag": "mha_d176_match", "seed": 4, "n_train": 150000}
+{"iid": 1.0, "ood": 0.983, "params": 1047936, "elapsed_s": 1104.9534442424774, "experiment": "strict_ood", "tag": "ava_K4_d128", "seed": 0, "n_train": 150000}
+{"iid": 1.0, "ood": 1.0, "params": 1047936, "elapsed_s": 613.2155930995941, "experiment": "strict_ood", "tag": "ava_K4_d128", "seed": 1, "n_train": 150000}
+{"iid": 1.0, "ood": 0.988, "params": 1047936, "elapsed_s": 78.4662230014801, "experiment": "strict_ood", "tag": "ava_K4_d128", "seed": 2, "n_train": 150000}
+{"iid": 1.0, "ood": 0.998, "params": 1047936, "elapsed_s": 76.31353187561035, "experiment": "strict_ood", "tag": "ava_K4_d128", "seed": 3, "n_train": 150000}
+{"iid": 1.0, "ood": 0.987, "params": 1047936, "elapsed_s": 74.81027317047119, "experiment": "strict_ood", "tag": "ava_K4_d128", "seed": 4, "n_train": 150000}

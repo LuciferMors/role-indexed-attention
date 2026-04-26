@@ -1,0 +1,32 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.mypy_cache/
+
+# latex build cruft
+paper/*.aux
+paper/*.log
+paper/*.bbl
+paper/*.blg
+paper/*.out
+paper/*.toc
+paper/*.synctex.gz
+paper/main.aux
+paper/main.log
+paper/main_neurips_anon.*
+paper/neurips_submission/
+
+# editor
+.DS_Store
+.idea/
+.vscode/
+
+# experiment temp output dir
+out/
+kaggle/__pycache__/
+
+# kaggle output mirrors (large)
+results/gpu/avacchedaka-attention-battery-t4x2.log
+results/metrics.jsonl
